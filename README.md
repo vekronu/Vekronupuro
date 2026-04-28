@@ -1,2 +1,0 @@
-# Vekronupuro
-Personal portfolio website 
